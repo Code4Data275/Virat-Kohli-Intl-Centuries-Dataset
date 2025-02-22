@@ -38,4 +38,18 @@ As I am a big cricket fan,this project is for all the cricket lovers. This proje
 
 ## Installation and Usage
 - Clone the repository
+  https://github.com/Code4Data275/Virat-Kohli-Intl-Centuries-Dataset
+- Install the dependencies
+  pip install pandas,scikit-learn,matplotlib,numpy
+- Run the Jupyter Notebook
+  jupyter notebook
+Open Virat Kohli Intl Centuries.ipynb to explore the dataset and execute the classification model.
+
+## Future Improvements
+- Implement other classification models such as Random Forest and SVM for comparison.
+- Optimize hyperparameters for better accuracy.
+- Develop a web-based interface for real-time predictions.
+
+## Contact
+For any queries, reach out to Aldous Dsouza or contribute via pull requests!
   
