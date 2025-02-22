@@ -1,0 +1,82 @@
+No.,Runs,Against,Format,Position,Innings,Venue,Ground,Date,Result
+1,107, Sri Lanka,ODI,4,2,Kolkata,Home,24-12-2009,Won
+2,102* , Bangladesh,ODI,3,2,Dhaka,Away,11-01-2010,Won
+3,118, Australia,ODI,3,2,Visakhapatnam,Home,20-10-2010,Won
+4,105, New Zealand,ODI,3,1,Guwahati,Home,28-11-2010,Won
+5,100*, Bangladesh,ODI,4,1,Dhaka,Away,19-02-2011,Won
+6,107, England,ODI,4,1,Cardiff,Away,16-09-2011,Lost
+7,112* , England,ODI,4,2,Delhi,Home,17-10-2011,Won
+8,117, West Indies,ODI,4,2,Visakhapatnam,Home,02-12-2011,Won
+9,116, Australia,Test,6,2,Adelaide,Away,24-01-2012,Lost
+10,133* , Sri Lanka,ODI,4,2,Hobart,Neutral,28-02-2012,Won
+11,108, Sri Lanka,ODI,3,1,Dhaka,Neutral,13-03-2012,Won
+12,183, Pakistan,ODI,3,2,Dhaka,Neutral,18-03-2012,Won
+13,106, Sri Lanka,ODI,3,1,Hambantota,Away,21-07-2012,Won
+14,128*, Sri Lanka,ODI,3,2,Colombo,Away,31-07-2012,Won
+15,103, New Zealand,Test,5,2,Bangalore,Home,31-08-2012,Won
+16,103, England,Test,5,2,Nagpur,Home,13-12-2012,Drawn
+17,107, Australia,Test,5,2,Chennai,Home,22-02-2013,Won
+18,102, West Indies,ODI,3,1,Port of Spain,Away,05-07-2013,Won
+19,115, Zimbabwe,ODI,3,2,Harare,Away,24-07-2013,Won
+20,100*, Australia,ODI,3,2,Jaipur,Home,16-10-2013,Won
+21,115* , Australia,ODI,3,2,Nagpur,Home,30-10-2013,Won
+22,119, South Africa,Test,4,1,Johannesburg,Away,18-12-2013,Drawn
+23,123, New Zealand,ODI,3,2,Napier,Away,19-01-2014,Lost
+24,105*, New Zealand,Test,4,4,Wellington,Away,14-02-2014,Drawn
+25,136, Bangladesh,ODI,3,2,Fatullah,Away,26-02-2014,Won
+26,127, West Indies,ODI,3,1,Dharamshala,Home,17-10-2014,Won
+27,139* , Sri Lanka,ODI,4,2,Ranchi,Home,16-11-2014,Won
+28,115, Australia,Test,4,2,Adelaide,Away,09-12-2014,Lost
+29,141, Australia,Test,4,4,Adelaide,Away,09-12-2014,Lost
+30,169, Australia,Test,4,2,Melbourne,Away,26-12-2014,Drawn
+31,147, Australia,Test,4,2,Sydney,Away,06-01-2015,Drawn
+32,107, Pakistan,ODI,3,1,Adelaide,Neutral,15-02-2015,Won
+33,103, Sri Lanka,Test,4,2,Galle,Away,12-08-2015,Lost
+34,138, South Africa,ODI,3,1,Chennai,Home,22-10-2015,Won
+35,117, Australia,ODI,3,1,Melbourne,Away,17-01-2016,Lost
+36,106, Australia,ODI,3,2,Canberra,Away,20-01-2016,Lost
+37,200, West Indies,Test,4,1,North Sound,Away,21-07-2016,Won
+38,211, New Zealand,Test,4,1,Indore,Home,08-10-2016,Won
+39,154* , New Zealand,ODI,3,2,Mohali,Home,23-10-2016,Won
+40,167, England,Test,4,1,Visakhapatnam,Home,17-11-2016,Won
+41,235, England,Test,4,2,Mumbai,Home,08-12-2016,Won
+42,122, England,ODI,3,2,Pune,Home,15-01-2017,Won
+43,204, Bangladesh,Test,4,1,Hyderabad,Home,09-02-2017,Won
+44,111* , West Indies,ODI,3,2,Kingston,Away,06-07-2017,Won
+45,103* , Sri Lanka,Test,4,3,Galle,Away,26-07-2017,Won
+46,131, Sri Lanka,ODI,3,1,Colombo,Away,31-08-2017,Won
+47,110* , Sri Lanka,ODI,3,2,Colombo,Away,03-09-2017,Won
+48,121, New Zealand,ODI,3,1,Mumbai,Home,22-10-2017,Lost
+49,113, New Zealand,ODI,3,1,Kanpur,Home,29-10-2017,Won
+50,104* , Sri Lanka,Test,4,3,Kolkata,Home,16-11-2017,Drawn
+51,213, Sri Lanka,Test,4,2,Nagpur,Home,24-11-2017,Won
+52,243, Sri Lanka,Test,4,1,Delhi,Home,02-12-2017,Drawn
+53,153, South Africa,Test,4,2,Centurion,Away,13-01-2018,Lost
+54,112, South Africa,ODI,3,2,Durban,Away,01-02-2018,Won
+55,160* , South Africa,ODI,3,1,Cape Town,Away,07-02-2018,Won
+56,129* , South Africa,ODI,3,2,Centurion,Away,16-02-2018,Won
+57,149, England,Test,4,2,Birmingham,Away,01-08-2018,Lost
+58,103, England,Test,4,3,Nottingham,Away,18-08-2018,Won
+59,139, West Indies,Test,4,1,Rajkot,Home,04-10-2018,Won
+60,140, West Indies,ODI,3,2,Guwahati,Home,21-10-2018,Won
+61,157* , West Indies,ODI,3,1,Visakhapatnam,Home,24-10-2018,Drawn
+62,107, West Indies,ODI,3,2,Pune,Home,27-10-2018,Lost
+63,123, Australia,Test,4,2,Perth,Away,14-12-2018,Lost
+64,104, Australia,ODI,3,2,Adelaide,Away,15-01-2019,Won
+65,116, Australia,ODI,3,1,Nagpur,Home,05-03-2019,Won
+66,123, Australia,ODI,3,2,Ranchi,Home,08-03-2019,Lost
+67,120, West Indies,ODI,3,1,Port of Spain,Away,11-08-2019,Won
+68,114* , West Indies,ODI,3,2,Port of Spain,Away,14-08-2019,Won
+69,254* , South Africa,Test,4,1,Pune,Home,10-10-2019,Won
+70,136, Bangladesh,Test,4,2,Kolkata,Home,22-11-2019,Won
+71,122*, Afghanistan,T20,2,1,Dubai,Neutral,08-09-2022,Won
+72,113, Bangladesh,ODI,3,1,Chittagong,Away,10-12-2022,Won
+73,113, Sri Lanka,ODI,3,1,Guwahati,Home,10-01-2023,Won
+74,166* , Sri Lanka,ODI,3,1,Thiruvananthapuram,Home,15-01-2023,Won
+75,186, Australia,Test,4,2,Ahmedabad,Home,09-03-2023,Drawn
+76,121, West Indies,Test,4,1,Port of Spain,Away,20-07-2023,Drawn
+77,122*, Pakistan,ODI,3,1,Colombo,Neutral,11-09-2023,Won
+78,103*, Bangladesh,ODI,3,2,Pune,Home,19-10-2023,Won
+79,101*, South Africa,ODI,3,1,Kolkata,Home,05-11-2023,Won
+80,117, New Zealand,ODI,3,1,Mumbai,Home,15-11-2023,Won
+81,100*, Australia,Test,4,2,Burswood,Away,22-11-2024,Won
