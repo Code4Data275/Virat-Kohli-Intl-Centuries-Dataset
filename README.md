@@ -1,4 +1,4 @@
-# Virat-Kohli-Intl-Centuries-Dataset
+# Classification and Prediction of Team India's Match Outcomes based on Virat Kohl's International Centuries
 
 ## Overview
 As I am a big cricket fan,this project is for all the cricket lovers. This project focuses on classifying and predicting the match outcomes based on our legendary Indian Batsman King Virat Kohli. Using historical data of his centuries, a Decision Tree algorithm is applied to analyse patterns and make predictions regarding future match results.
