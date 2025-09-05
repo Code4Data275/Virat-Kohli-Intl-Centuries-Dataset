@@ -86,3 +86,8 @@ This project analyzes and predicts cricket match outcomes using historical data 
 ## 👤 Author
 **Aldous Dsouza**  
 BSc Computer Science | Data Science & Software Development Enthusiast
+
+---
+
+## 🤝 Contribution
+Contributions are welcome! Feel free to fork this repo and submit pull requests.  
